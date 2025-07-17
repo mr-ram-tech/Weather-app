@@ -1,10 +1,10 @@
-# bloc_app
+# weather_app
 
 A new Flutter project.
 
 ## Project Overview
 
-**bloc_app** is a sample Flutter application demonstrating the use of the BLoC (Business Logic Component) pattern for state management. The app showcases how to separate business logic from UI, making your Flutter apps more scalable and maintainable.
+**weather_app** is a sample Flutter application demonstrating the use of the BLoC (Business Logic Component) pattern for state management. The app showcases how to separate business logic from UI, making your Flutter apps more scalable and maintainable.
 
 ## Features
 
